@@ -11,16 +11,16 @@ This dataset is made available by Tata x Forage for simulation purpose</div>
 
 CEO:
 <div align="justify">
-Which region offers highest sales value to our organization?
-Which region are underperforming or are lowest?
-How much revenue do our top 100 customers generate? How to retain them by providing more rich customer experience?
-How can we optimize our product inventory based on sales trends to reduce overhead cost and avoid stockouts?
+1. Which region offers highest sales value to our organization?
+2. Which region are underperforming or are lowest?
+3. How much revenue do our top 100 customers generate? How to retain them by providing more rich customer experience?
+4. How can we optimize our product inventory based on sales trends to reduce overhead cost and avoid stockouts?
 </div>
 
 CMO:
 <div align="justify">
-Best selling and under selling products for each region? How can we promote best selling products in underperforming regions? What promotions helped us achieve best selling products. 
-Which regions has low conversation rates? How to improve them?
-How to align our marketing strategies to align with seasonal trends?
-What are the characteristics of customers who make repeated purchase? How to retain them?
+1. Best selling and under selling products for each region? How can we promote best selling products in underperforming regions? What promotions helped us achieve best selling products. 
+2. Which regions has low conversation rates? How to improve them?
+3. How to align our marketing strategies to align with seasonal trends?
+4. What are the characteristics of customers who make repeated purchase? How to retain them?
 </div>
