@@ -7,26 +7,5 @@ Data Set:
 This dataset is made available by Tata x Forage for simulation purpose</div>
 
 
-<div align="justify">#Task 1: Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you differentiate your questions, as both the CEO and CMO view business decisions through different lenses.</div>
 
-CEO:
-<div align="justify">
-1. Which region offers highest sales value to our organization?
-  
-2. Which region are underperforming or are lowest?
-   
-3. How much revenue do our top 100 customers generate? How to retain them by providing more rich customer experience?
-   
-4. How can we optimize our product inventory based on sales trends to reduce overhead cost and avoid stockouts?
-</div>
 
-CMO:
-<div align="justify">
-1. Best selling and under selling products for each region? How can we promote best selling products in underperforming regions? What promotions helped us achieve best selling products. 
-  
-2. Which regions has low conversation rates? How to improve them?
-
-3. How to align our marketing strategies to align with seasonal trends?
-
-4. What are the characteristics of customers who make repeated purchase? How to retain them?
-</div>
